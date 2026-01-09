@@ -1,6 +1,11 @@
 # THM-SOC-LEVEL-1-PATH
-the journey to get on the fast track to becoming a successful Security Analyst (SOC L1)
 
+## Introduction
+This repository documents my journey toward becoming a successful Security Operations Center (SOC) Tier 1 Analyst.
 
-## SOC TEAM INTERNALS
-### [SOC ALERT TIAGE](https://tryhackme.com/room/socl1alerttriage?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56)
+I am following the SOC Level 1 learning path on TryHackMe to build the core skills required for entry-level SOC roles, including security monitoring, alert analysis, incident handling, and threat detection.
+
+Through hands-on labs and practical exercises, this journey focuses on developing real-world defensive security skills essential for working in a SOC environment.
+
+### SOC TEAM INTERNALS
+[SOC ALERT TIAGE](https://tryhackme.com/room/socl1alerttriage?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56)
