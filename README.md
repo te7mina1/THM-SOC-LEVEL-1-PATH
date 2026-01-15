@@ -9,3 +9,5 @@ Through hands-on labs and practical exercises, this journey focuses on developin
 
 ## SOC TEAM INTERNALS
 [SOC ALERT TIAGE](https://tryhackme.com/room/socl1alerttriage?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56) - how L1 analyst handle and triage alerts from event generation to correct resolution.
+
+[SOC ALERT REPORTING](https://tryhackme.com/room/socl1alertreporting?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy) - understanding the need for SOC alert reporting and escalation and methods of communication.
