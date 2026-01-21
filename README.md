@@ -14,3 +14,5 @@ Through hands-on labs and practical exercises, this journey focuses on developin
 
 [SOC WORKBOOKS AND LOOKUPS](https://tryhackme.com/room/socworkbookslookups?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56) - resources to help structure and simplify alert triage or documented steps to investigate threats.
 
+[SOC METRICS AND OBJECTIVES](https://tryhackme.com/room/socmetricsobjectives?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56) - measuring performance, efficiency and effectiveness in detecing and responding to threats.
+
