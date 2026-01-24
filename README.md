@@ -22,4 +22,6 @@ Through hands-on labs and practical exercises, this journey focuses on developin
 
 [Intro. to SIEM](https://tryhackme.com/room/introtosiem?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56) - understanding how SIEM collects logs from various types of log sources, correlates them and detects malicious activities using detection rules.
 
+[Splunk: The Basics](https://tryhackme.com/room/splunk101?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=643ee78072f894005c435b56) - understanding how SOC use Splunk SIEM for log investigation.
+
 
